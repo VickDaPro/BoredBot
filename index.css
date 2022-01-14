@@ -1,0 +1,10 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
+}
+
+#button {
+  size: 2em;
+  border-radius: 2%;
+  background-color: rgb(163, 202, 235);
+}
